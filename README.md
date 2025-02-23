@@ -9,6 +9,10 @@ User Authentication:
 * Signup with Neme, UserName and password
 * Basic validation for input fields
 
+Send SMS
+* Enter Mobile number and Message (After login)
+* Send SMS to the mobile number that entered
+
 User Management:
 * Stores users in an SQLite database
 * Displays all registered users in a ListView
