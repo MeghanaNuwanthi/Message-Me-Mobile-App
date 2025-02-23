@@ -20,3 +20,15 @@ Interactive UI:
 Data Persistence:
 * Uses SQLite database to store user credentials
 
+---
+
+### 🛠️ Technologies Used
+Programming Language: Java ☕,
+UI Design: XML 🖌️,
+Database: SQLite 🗄️
+
+User Interface Components:
+* EditText (for input fields)
+* Button (for login/signup actions)
+* TextView (for navigation links)
+* ListView (for displaying user data)
